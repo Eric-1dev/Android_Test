@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Кухонная подсветка</string>
+    <string name="action_settings">Настройки</string>
+    <string name="server">Сервер</string>
+    <string name="topLightName">Подсветка столешницы</string>
+    <string name="bottomLightName">Нижняя подсветка</string>
+    <string name="serverStatus">Статус сервера</string>
+    <string name="ip_hint">IP-адрес сервера</string>
+    <string name="port_hint">Порт сервера</string>
+</resources>
